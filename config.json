@@ -96,6 +96,9 @@
   "322315628": [
    "lancamento"
   ],
+  "322316327": [
+   "lancamento"
+  ],
   "322316763": [
    "lancamento",
    "sob_encomenda"
@@ -12017,6 +12020,6 @@
   ]
  },
  "source_products_walked": 5344,
- "updated_at": "2026-08-18T22:43:41.650455+00:00",
+ "updated_at": "2026-08-18T22:47:25.173733+00:00",
  "version": 1
 }
