@@ -90,6 +90,12 @@
   "322312805": [
    "sob_encomenda"
   ],
+  "322315185": [
+   "lancamento"
+  ],
+  "322315628": [
+   "lancamento"
+  ],
   "322316763": [
    "lancamento",
    "sob_encomenda"
@@ -1522,6 +1528,9 @@
   "341404815": [
    "lancamento"
   ],
+  "341527090": [
+   "lancamento"
+  ],
   "341544369": [
    "sob_encomenda"
   ],
@@ -1630,6 +1639,9 @@
   ],
   "343102523": [
    "sob_encomenda"
+  ],
+  "343145496": [
+   "lancamento"
   ],
   "343279541": [
    "lancamento"
@@ -1909,6 +1921,9 @@
    "lancamento"
   ],
   "345819732": [
+   "lancamento"
+  ],
+  "345822201": [
    "lancamento"
   ],
   "345830951": [
@@ -12002,6 +12017,6 @@
   ]
  },
  "source_products_walked": 5344,
- "updated_at": "2026-08-18T22:27:07.835809+00:00",
+ "updated_at": "2026-08-18T22:43:41.650455+00:00",
  "version": 1
 }
