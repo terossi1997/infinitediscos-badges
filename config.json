@@ -157,16 +157,7 @@
   "322427509": [
    "sob_encomenda"
   ],
-  "322460405": [
-   "lancamento"
-  ],
   "322462364": [
-   "lancamento"
-  ],
-  "322462782": [
-   "lancamento"
-  ],
-  "322479300": [
    "lancamento"
   ],
   "322515587": [
@@ -368,12 +359,6 @@
   "324257997": [
    "sob_encomenda"
   ],
-  "324339224": [
-   "lancamento"
-  ],
-  "324343157": [
-   "lancamento"
-  ],
   "324345359": [
    "sob_encomenda"
   ],
@@ -388,9 +373,6 @@
   ],
   "324912132": [
    "sob_encomenda"
-  ],
-  "324925775": [
-   "lancamento"
   ],
   "324935584": [
    "sob_encomenda"
@@ -492,15 +474,6 @@
    "lancamento"
   ],
   "326177861": [
-   "lancamento"
-  ],
-  "326178903": [
-   "lancamento"
-  ],
-  "326180203": [
-   "lancamento"
-  ],
-  "326180812": [
    "lancamento"
   ],
   "326181996": [
@@ -612,17 +585,11 @@
   "327830871": [
    "lancamento"
   ],
-  "327833433": [
-   "lancamento"
-  ],
   "327838561": [
    "lancamento"
   ],
   "327845543": [
    "sob_encomenda"
-  ],
-  "327846558": [
-   "lancamento"
   ],
   "327942247": [
    "sob_encomenda"
@@ -647,9 +614,6 @@
   ],
   "327977748": [
    "sob_encomenda"
-  ],
-  "327979368": [
-   "lancamento"
   ],
   "327984726": [
    "sob_encomenda"
@@ -818,9 +782,6 @@
   "330299701": [
    "sob_encomenda"
   ],
-  "330302605": [
-   "lancamento"
-  ],
   "330342836": [
    "lancamento",
    "sob_encomenda"
@@ -888,9 +849,6 @@
    "lancamento"
   ],
   "330663629": [
-   "lancamento"
-  ],
-  "330664432": [
    "lancamento"
   ],
   "330674864": [
@@ -1165,9 +1123,6 @@
   "335015057": [
    "sob_encomenda"
   ],
-  "335020938": [
-   "lancamento"
-  ],
   "335021418": [
    "sob_encomenda"
   ],
@@ -1343,9 +1298,6 @@
    "sob_encomenda"
   ],
   "336326760": [
-   "lancamento"
-  ],
-  "336327349": [
    "lancamento"
   ],
   "336372408": [
@@ -1793,7 +1745,6 @@
    "sob_encomenda"
   ],
   "344349699": [
-   "lancamento",
    "pre_venda"
   ],
   "344351091": [
@@ -2107,9 +2058,6 @@
    "lancamento",
    "sob_encomenda"
   ],
-  "355469094": [
-   "lancamento"
-  ],
   "355469105": [
    "lancamento"
   ],
@@ -2201,9 +2149,6 @@
    "lancamento"
   ],
   "355476760": [
-   "lancamento"
-  ],
-  "355476972": [
    "lancamento"
   ],
   "355476994": [
@@ -12020,6 +11965,6 @@
   ]
  },
  "source_products_walked": 5344,
- "updated_at": "2026-08-18T23:00:00.128954+00:00",
+ "updated_at": "2026-08-19T04:50:34.065083+00:00",
  "version": 1
 }
