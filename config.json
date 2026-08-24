@@ -104,7 +104,11 @@
    "sob_encomenda"
   ],
   "322317800": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
+  ],
+  "322319392": [
+   "sob_encomenda"
   ],
   "322320648": [
    "sob_encomenda"
@@ -433,11 +437,18 @@
   "326035854": [
    "sob_encomenda"
   ],
+  "326047179": [
+   "sob_encomenda"
+  ],
+  "326087601": [
+   "sob_encomenda"
+  ],
   "326091130": [
    "sob_encomenda"
   ],
   "326093697": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "326094698": [
    "lancamento"
@@ -470,6 +481,12 @@
   "326177861": [
    "lancamento"
   ],
+  "326181996": [
+   "sob_encomenda"
+  ],
+  "326182461": [
+   "sob_encomenda"
+  ],
   "326183098": [
    "lancamento"
   ],
@@ -490,6 +507,9 @@
   ],
   "326195415": [
    "lancamento"
+  ],
+  "326196124": [
+   "sob_encomenda"
   ],
   "326220903": [
    "sob_encomenda"
@@ -618,9 +638,6 @@
   "328049210": [
    "lancamento"
   ],
-  "328055808": [
-   "sob_encomenda"
-  ],
   "328057509": [
    "sob_encomenda"
   ],
@@ -711,6 +728,9 @@
   "329063506": [
    "sob_encomenda"
   ],
+  "329063955": [
+   "sob_encomenda"
+  ],
   "329064351": [
    "sob_encomenda"
   ],
@@ -724,6 +744,9 @@
    "lancamento",
    "sob_encomenda"
   ],
+  "329067385": [
+   "sob_encomenda"
+  ],
   "329068835": [
    "lancamento"
   ],
@@ -733,8 +756,14 @@
   "329071144": [
    "sob_encomenda"
   ],
+  "329077990": [
+   "sob_encomenda"
+  ],
   "329078438": [
    "lancamento"
+  ],
+  "329079495": [
+   "sob_encomenda"
   ],
   "329858689": [
    "lancamento",
@@ -980,9 +1009,6 @@
    "sob_encomenda"
   ],
   "333672100": [
-   "sob_encomenda"
-  ],
-  "333681047": [
    "sob_encomenda"
   ],
   "333931325": [
@@ -1244,6 +1270,21 @@
   "336166056": [
    "sob_encomenda"
   ],
+  "336172237": [
+   "sob_encomenda"
+  ],
+  "336308794": [
+   "sob_encomenda"
+  ],
+  "336309694": [
+   "sob_encomenda"
+  ],
+  "336310253": [
+   "sob_encomenda"
+  ],
+  "336311681": [
+   "sob_encomenda"
+  ],
   "336312061": [
    "lancamento"
   ],
@@ -1256,8 +1297,14 @@
   "336316579": [
    "lancamento"
   ],
+  "336317701": [
+   "sob_encomenda"
+  ],
   "336318113": [
    "lancamento"
+  ],
+  "336324042": [
+   "sob_encomenda"
   ],
   "336325833": [
    "lancamento",
@@ -1266,8 +1313,18 @@
   "336326760": [
    "lancamento"
   ],
+  "336372408": [
+   "sob_encomenda"
+  ],
+  "336377443": [
+   "sob_encomenda"
+  ],
+  "336415347": [
+   "sob_encomenda"
+  ],
   "336571925": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "336572458": [
    "lancamento"
@@ -1280,6 +1337,9 @@
   ],
   "336595396": [
    "lancamento"
+  ],
+  "336596123": [
+   "sob_encomenda"
   ],
   "336596435": [
    "lancamento"
@@ -1324,6 +1384,9 @@
   ],
   "336898327": [
    "lancamento"
+  ],
+  "336930283": [
+   "sob_encomenda"
   ],
   "336985934": [
    "sob_encomenda"
@@ -1386,9 +1449,6 @@
    "sob_encomenda"
   ],
   "337309240": [
-   "sob_encomenda"
-  ],
-  "337309856": [
    "sob_encomenda"
   ],
   "337423949": [
@@ -1493,11 +1553,17 @@
   "342237484": [
    "lancamento"
   ],
+  "342263954": [
+   "sob_encomenda"
+  ],
   "342271769": [
    "lancamento",
    "sob_encomenda"
   ],
   "342274604": [
+   "sob_encomenda"
+  ],
+  "342275247": [
    "sob_encomenda"
   ],
   "342277160": [
@@ -1597,7 +1663,8 @@
    "sob_encomenda"
   ],
   "343806198": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "343806989": [
    "sob_encomenda"
@@ -1712,6 +1779,9 @@
   "345387322": [
    "lancamento"
   ],
+  "345416457": [
+   "sob_encomenda"
+  ],
   "345424777": [
    "sob_encomenda"
   ],
@@ -1789,6 +1859,9 @@
   "345617276": [
    "lancamento"
   ],
+  "345648140": [
+   "sob_encomenda"
+  ],
   "345649856": [
    "sob_encomenda"
   ],
@@ -1827,7 +1900,8 @@
    "sob_encomenda"
   ],
   "345947582": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "345953341": [
    "sob_encomenda"
@@ -1934,10 +2008,19 @@
   "352575514": [
    "sob_encomenda"
   ],
+  "352579586": [
+   "sob_encomenda"
+  ],
+  "352591147": [
+   "sob_encomenda"
+  ],
   "352598771": [
    "sob_encomenda"
   ],
   "352600192": [
+   "sob_encomenda"
+  ],
+  "352602510": [
    "sob_encomenda"
   ],
   "354342032": [
@@ -2017,8 +2100,7 @@
    "sob_encomenda"
   ],
   "355478325": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "355478582": [
    "lancamento"
@@ -2165,7 +2247,8 @@
    "pre_venda"
   ],
   "356605260": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "356605292": [
    "lancamento",
@@ -2183,7 +2266,8 @@
    "sob_encomenda"
   ],
   "356606964": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "356606988": [
    "pre_venda"
@@ -2234,6 +2318,9 @@
   ],
   "356613694": [
    "lancamento"
+  ],
+  "357284306": [
+   "sob_encomenda"
   ],
   "357284363": [
    "lancamento",
@@ -2290,9 +2377,6 @@
   "357335249": [
    "sob_encomenda"
   ],
-  "357335871": [
-   "lancamento"
-  ],
   "357335917": [
    "lancamento"
   ],
@@ -2300,237 +2384,19 @@
    "lancamento"
   ],
   "357336659": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "357345048": [
    "sob_encomenda"
   ],
-  "357490253": [
-   "lancamento"
-  ],
-  "357490271": [
-   "lancamento"
-  ],
-  "357490286": [
-   "lancamento"
-  ],
-  "357490328": [
-   "lancamento"
-  ],
-  "357490349": [
-   "lancamento"
-  ],
-  "357490366": [
-   "lancamento"
-  ],
-  "357490379": [
-   "lancamento"
-  ],
-  "357490698": [
-   "lancamento"
-  ],
-  "357490729": [
-   "lancamento"
-  ],
-  "357490744": [
-   "lancamento"
-  ],
-  "357490756": [
-   "lancamento"
-  ],
-  "357490790": [
-   "lancamento"
-  ],
   "357490801": [
-   "lancamento"
-  ],
-  "357490820": [
-   "lancamento"
-  ],
-  "357491216": [
-   "lancamento"
-  ],
-  "357491231": [
-   "lancamento"
-  ],
-  "357491265": [
-   "lancamento"
-  ],
-  "357491284": [
-   "lancamento"
-  ],
-  "357491627": [
-   "lancamento"
-  ],
-  "357491681": [
-   "lancamento"
-  ],
-  "357491699": [
-   "lancamento"
-  ],
-  "357491962": [
-   "lancamento"
-  ],
-  "357491999": [
-   "lancamento"
-  ],
-  "357492024": [
-   "lancamento"
-  ],
-  "357492052": [
-   "lancamento"
-  ],
-  "357492074": [
-   "lancamento"
-  ],
-  "357492099": [
-   "lancamento"
-  ],
-  "357492128": [
-   "lancamento"
-  ],
-  "357492152": [
-   "lancamento"
-  ],
-  "357492175": [
-   "lancamento"
-  ],
-  "357492548": [
-   "lancamento"
-  ],
-  "357492562": [
-   "lancamento"
-  ],
-  "357492580": [
-   "lancamento"
-  ],
-  "357492591": [
-   "lancamento"
-  ],
-  "357492614": [
-   "lancamento"
-  ],
-  "357492626": [
-   "lancamento"
-  ],
-  "357492637": [
-   "lancamento"
-  ],
-  "357492651": [
-   "lancamento"
-  ],
-  "357492681": [
-   "lancamento"
-  ],
-  "357493112": [
-   "lancamento"
-  ],
-  "357493126": [
-   "lancamento"
-  ],
-  "357493139": [
-   "lancamento"
-  ],
-  "357493149": [
-   "lancamento"
-  ],
-  "357493157": [
-   "lancamento"
-  ],
-  "357493551": [
-   "lancamento"
-  ],
-  "357542886": [
-   "lancamento"
-  ],
-  "357542908": [
-   "lancamento"
-  ],
-  "357542919": [
-   "lancamento"
-  ],
-  "357542952": [
-   "lancamento"
-  ],
-  "357543022": [
-   "lancamento"
-  ],
-  "357543036": [
-   "lancamento"
-  ],
-  "357543056": [
-   "lancamento"
-  ],
-  "357543081": [
-   "lancamento"
-  ],
-  "357544189": [
-   "lancamento"
-  ],
-  "357544234": [
-   "lancamento"
-  ],
-  "357544275": [
-   "lancamento"
-  ],
-  "357544357": [
-   "lancamento"
-  ],
-  "357544379": [
-   "lancamento"
-  ],
-  "357544876": [
-   "lancamento"
-  ],
-  "357544930": [
-   "lancamento"
-  ],
-  "357544947": [
    "lancamento"
   ],
   "357544956": [
    "lancamento"
   ],
-  "357544970": [
-   "lancamento"
-  ],
-  "357544978": [
-   "lancamento"
-  ],
-  "357544999": [
-   "lancamento"
-  ],
-  "357547226": [
-   "lancamento"
-  ],
-  "357547237": [
-   "lancamento"
-  ],
-  "357547271": [
-   "lancamento"
-  ],
-  "357547338": [
-   "lancamento"
-  ],
-  "357549389": [
-   "lancamento"
-  ],
-  "357549423": [
-   "lancamento"
-  ],
-  "357549436": [
-   "lancamento"
-  ],
-  "357549446": [
-   "lancamento"
-  ],
-  "357549463": [
-   "lancamento"
-  ],
   "357549481": [
-   "lancamento"
-  ],
-  "357549489": [
    "lancamento"
   ],
   "357551219": [
@@ -2540,92 +2406,20 @@
    "lancamento",
    "sob_encomenda"
   ],
-  "357551261": [
-   "lancamento"
-  ],
   "357551278": [
-   "lancamento",
    "sob_encomenda"
   ],
-  "357553689": [
-   "lancamento"
-  ],
-  "357553701": [
-   "lancamento"
-  ],
-  "357553753": [
-   "lancamento"
-  ],
-  "357553788": [
-   "lancamento"
-  ],
-  "357598355": [
-   "lancamento"
-  ],
-  "357598553": [
-   "lancamento"
-  ],
-  "357598558": [
-   "lancamento"
-  ],
-  "357598560": [
-   "lancamento"
-  ],
-  "357598564": [
-   "lancamento"
-  ],
-  "357598566": [
-   "lancamento"
-  ],
-  "357598575": [
-   "lancamento"
-  ],
-  "357598635": [
-   "lancamento"
-  ],
-  "357598638": [
-   "lancamento"
-  ],
   "357598641": [
-   "lancamento"
-  ],
-  "357598645": [
    "lancamento"
   ],
   "357598649": [
    "lancamento"
   ],
-  "357598653": [
-   "lancamento"
-  ],
-  "357598692": [
-   "lancamento"
-  ],
-  "357598707": [
-   "lancamento"
-  ],
-  "357598714": [
-   "lancamento"
-  ],
-  "357598717": [
-   "lancamento"
-  ],
-  "357598772": [
-   "lancamento"
-  ],
-  "357598792": [
-   "lancamento"
-  ],
   "357598799": [
-   "lancamento",
    "pre_venda"
   ],
   "357598981": [
-   "lancamento",
    "pre_venda"
-  ],
-  "357598985": [
-   "lancamento"
   ],
   "357599060": [
    "lancamento"
@@ -2866,8 +2660,7 @@
    "sob_encomenda"
   ],
   "357721724": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "357721730": [
    "lancamento"
@@ -3925,14 +3718,14 @@
    "sob_encomenda"
   ],
   "358210726": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "358210743": [
    "lancamento"
   ],
   "358210753": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "358210772": [
    "lancamento"
@@ -3948,8 +3741,7 @@
    "lancamento"
   ],
   "358211004": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "358211014": [
    "lancamento"
@@ -4352,16 +4144,20 @@
    "lancamento"
   ],
   "359077558": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359077571": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359077589": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359077602": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359077767": [
    "lancamento",
@@ -4529,7 +4325,8 @@
    "lancamento"
   ],
   "359084781": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359084866": [
    "lancamento"
@@ -4578,7 +4375,8 @@
    "lancamento"
   ],
   "359087344": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359087373": [
    "lancamento"
@@ -4593,13 +4391,16 @@
    "lancamento"
   ],
   "359087725": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359087787": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359087797": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359087806": [
    "lancamento"
@@ -4608,7 +4409,8 @@
    "lancamento"
   ],
   "359087829": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359088219": [
    "lancamento"
@@ -4659,20 +4461,24 @@
    "sob_encomenda"
   ],
   "359089504": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359089536": [
    "lancamento",
    "sob_encomenda"
   ],
   "359089548": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359089580": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359089594": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359089607": [
    "lancamento",
@@ -4685,7 +4491,8 @@
    "lancamento"
   ],
   "359089865": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359089883": [
    "lancamento"
@@ -5751,7 +5558,8 @@
    "lancamento"
   ],
   "359187189": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "359187197": [
    "lancamento"
@@ -6038,7 +5846,8 @@
    "lancamento"
   ],
   "360197271": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "360197301": [
    "lancamento"
@@ -9938,7 +9747,8 @@
    "lancamento"
   ],
   "361170499": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361170508": [
    "lancamento"
@@ -10073,14 +9883,16 @@
    "sob_encomenda"
   ],
   "361173174": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361173184": [
    "lancamento",
    "sob_encomenda"
   ],
   "361173197": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361173220": [
    "lancamento",
@@ -10135,7 +9947,8 @@
    "lancamento"
   ],
   "361173982": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361174411": [
    "lancamento"
@@ -10201,7 +10014,8 @@
    "lancamento"
   ],
   "361174860": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361174868": [
    "lancamento"
@@ -10304,7 +10118,8 @@
    "lancamento"
   ],
   "361176340": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361176365": [
    "lancamento"
@@ -10393,7 +10208,8 @@
    "lancamento"
   ],
   "361177335": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361177360": [
    "lancamento"
@@ -10435,7 +10251,8 @@
    "lancamento"
   ],
   "361177812": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361178126": [
    "lancamento"
@@ -10738,7 +10555,8 @@
    "lancamento"
   ],
   "361182018": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361182026": [
    "lancamento",
@@ -10816,7 +10634,8 @@
    "lancamento"
   ],
   "361184436": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361184443": [
    "lancamento",
@@ -10826,7 +10645,8 @@
    "lancamento"
   ],
   "361184471": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361184486": [
    "lancamento"
@@ -11063,7 +10883,8 @@
    "lancamento"
   ],
   "361983078": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "361983089": [
    "lancamento"
@@ -12805,7 +12626,8 @@
    "lancamento"
   ],
   "362222250": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "362222288": [
    "lancamento"
@@ -13276,7 +13098,8 @@
    "pre_venda"
   ],
   "362228239": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "362228246": [
    "lancamento"
@@ -14270,7 +14093,8 @@
    "lancamento"
   ],
   "362240579": [
-   "lancamento"
+   "lancamento",
+   "sob_encomenda"
   ],
   "362240592": [
    "lancamento"
@@ -15185,8 +15009,7 @@
    "lancamento"
   ],
   "362246894": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "362246903": [
    "lancamento",
@@ -15908,8 +15731,7 @@
    "lancamento"
   ],
   "362252767": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "362252775": [
    "lancamento"
@@ -16025,6 +15847,6 @@
   ]
  },
  "source_products_walked": 7002,
- "updated_at": "2026-08-23T05:14:16.960189+00:00",
+ "updated_at": "2026-08-24T05:16:00.348684+00:00",
  "version": 1
 }
