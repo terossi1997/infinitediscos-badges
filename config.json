@@ -7340,8 +7340,7 @@
    "lancamento"
   ],
   "361146321": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "361146968": [
    "sob_encomenda"
@@ -16419,6 +16418,6 @@
   ]
  },
  "source_products_walked": 11874,
- "updated_at": "2026-11-19T08:20:48.967167+00:00",
+ "updated_at": "2026-11-19T10:39:56.240261+00:00",
  "version": 1
 }
