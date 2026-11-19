@@ -10346,8 +10346,7 @@
    "lancamento"
   ],
   "364330927": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "364330929": [
    "lancamento"
@@ -13301,8 +13300,7 @@
    "lancamento"
   ],
   "364493781": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "364493813": [
    "sob_encomenda"
@@ -15636,8 +15634,7 @@
    "lancamento"
   ],
   "366222462": [
-   "lancamento",
-   "sob_encomenda"
+   "lancamento"
   ],
   "366223031": [
    "lancamento"
@@ -16422,6 +16419,6 @@
   ]
  },
  "source_products_walked": 11874,
- "updated_at": "2026-11-19T05:42:52.054634+00:00",
+ "updated_at": "2026-11-19T08:20:48.967167+00:00",
  "version": 1
 }
